@@ -9,6 +9,24 @@ The volume of the Earth is 2.2984729611703882E11 cubic miles, the volume of the 
 
 ## Problem 2: Language Basics
 Code: Primes.java
+Output (for nValues = 50):
+```
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+```
 
 ## Problem 3: Object Basics
 Code: StringCharacters.java <br />
