@@ -1,3 +1,15 @@
+Matriculation Number: 7218924 <br />
+GitHub Link: https://github.com/haarsh85/pre-check-task-java.git
+
+# Development Environment:
+- java 20.0.2 2023-07-18
+Java(TM) SE Runtime Environment (build 20.0.2+9-78)
+Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)
+
+-	IDE
+Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
+Version: 2023-06 (4.28.0)
+
 # Homework Assignment 1
 
 ## Problem 1: Language Basics
@@ -39,7 +51,7 @@ spaces: 37
 
 ## Problem 4: Object Basics
 Code: WordSort.java <br />
-Definition of 'words': I have defined words as sequence of characters seperated by white spaces. Therefore, I have removed punctuation marks (i.e. ,;?') available in the soliloquy to retain only characters. <br />
+Definition of 'words': I have defined words as sequence of only characters seperated by white spaces. Therefore, I have removed punctuation marks (i.e. ,;?') available in the soliloquy to retain only characters. <br />
 Output:
 ```
 Sorted Word list
