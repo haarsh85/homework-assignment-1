@@ -1,5 +1,5 @@
 Matriculation Number: 7218924 <br />
-GitHub Link: https://github.com/haarsh85/pre-check-task-java.git
+GitHub Link: [https://github.com/haarsh85/pre-check-task-java.git](https://github.com/haarsh85/homework-assignment-1.git)
 
 # Development Environment:
 - java 20.0.2 2023-07-18
