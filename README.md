@@ -1,3 +1,4 @@
+# Homework Assignment 1
 Matriculation Number: 7218924 <br />
 GitHub Link: https://github.com/haarsh85/homework-assignment-1.git
 
@@ -10,8 +11,8 @@ Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)
 Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
 Version: 2023-06 (4.28.0)
 
-# Homework Assignment 1
 
+# Solution Description
 ## Problem 1: Language Basics
 Code: MathCalc.java <br />
 Output: 
